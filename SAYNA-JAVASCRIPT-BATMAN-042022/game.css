@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Rajdhani:wght@500&family=Raleway:wght@100&display=swap');
+body{
+    background-image: url(./Illustrations/Game/Batgame1.png);
+    background-repeat: no-repeat;
+    width: 90%;
+    font-family: 'Rajdhani', sans-serif;
+}
+.form-check{
+    border: 1px solid gray;
+    background-color: grey;
+    width: 500px;
+    padding: 1% 5% 1% 4%;
+    margin-bottom: 1%;
+}
